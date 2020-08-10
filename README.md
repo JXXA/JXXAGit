@@ -1,5 +1,6 @@
-# JXXAGit
+* * *
 
-## Skil
-# React
-# Python
+### Python
+* Python programming
+
+* * *
