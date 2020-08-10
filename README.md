@@ -1,5 +1,5 @@
 # JXXAGit
 
-## ±â¼ú
+## Skil
 # React
 # Python
