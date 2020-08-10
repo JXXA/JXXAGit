@@ -1,5 +1,3 @@
-# JXXAGit
+## JXXA-Git 
 
-## Skil
-# React
-# Python
+> My soul is with Google and StackOverflow.
